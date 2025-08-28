@@ -41,7 +41,7 @@ This project demonstrates clean code practices, modular design, and test-driven 
 
    ```bash
    npm run build      # Or tsc
-   node driver.js
+   npm run start
    ```
 
 3. **Run the tests**
